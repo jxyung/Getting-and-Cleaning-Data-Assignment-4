@@ -1,11 +1,11 @@
 # Getting-and-Cleaning-Data-Assignment-4
 
-Coursera Course: Getting and Cleaning Data
+# ReadMe
 
 Assignment Submission Files:
-- run_analysis.R
 - README.md
 - CookBook.md
+- run_analysis.R
 
 This is the course project for the Getting and Cleaning Data Coursera course. 
 The R script, run_analysis.R, does the following:
